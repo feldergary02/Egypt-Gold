@@ -1,11 +1,3 @@
-
-Egypt Gold - название приложения
-Zvidu App - имя разработчика в Google Play Console
-feldergary02@gmail.com - почта gmail разработчика
-Gary Felder - ФИО разработчика (есть в контактной информации google)
-23.02.2023 - дата, когда вы начинаете создавать приложение
-https://feldergary02.github.io/Egypt-Gold/tc - ссылка на страницу terms and conditions
-
 **Privacy Policy**
 
 Zvidu App Name built the Egypt Gold app as a Free app. This SERVICE is provided by Zvidu App Name at no cost and is intended for use as is.
@@ -29,7 +21,6 @@ Link to the privacy policy of third-party service providers used by the app
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 *   [Facebook](https://www.facebook.com/about/privacy/update/printable)
 *   [One Signal](https://onesignal.com/privacy_policy)
-*   [Adjust](https://www.adjust.com/terms/privacy-policy)
 *   [Appsflyer](https://www.appsflyer.com/legal/services-privacy-policy/)
 *   [Chrome](https://www.google.com/chrome/privacy/)
 
@@ -81,7 +72,6 @@ When you access or use our Services, we collect information from and about you a
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 *   [Facebook](https://www.facebook.com/about/privacy/update/printable)
 *   [One Signal](https://onesignal.com/privacy_policy)
-*   [Adjust](https://www.adjust.com/terms/privacy-policy)
 *   [Appsflyer](https://www.appsflyer.com/legal/services-privacy-policy/)
 *   [Chrome](https://www.google.com/chrome/privacy/)
 
